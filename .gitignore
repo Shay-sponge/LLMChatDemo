@@ -6,6 +6,9 @@ bin-release/
 
 # Other files and folders
 .settings/
+ Assets/SpeechSDK/Plugins/iOS/libMicrosoft.CognitiveServices.Speech.core.a
+ Assets/MyAssets/Fronts/SourceHanSerifCN-Regular SDF.asset 
+
 
 # Executables
 *.swf
